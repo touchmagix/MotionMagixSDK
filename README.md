@@ -9,7 +9,7 @@ This SDK contains,
 
 3. MotionMagix Ultimate Simulator
 
-User can create their own custom content in Unity, AS3 Flash which is supported by MotionMagix Ultimate platform.
+User can create their own custom content in Unity, AS3 Flash which is supported by <a href="http://www.motionmagix.com">MotionMagix</a> Ultimate platform.
 This SDK also contaion MotionMagix Ultimate Simulator.MotionMagix Simulator allows user to test there content (Unity, flash, etc) without the need of MotionMagix hardware.User instruction reagrding the same also included.
 
 
